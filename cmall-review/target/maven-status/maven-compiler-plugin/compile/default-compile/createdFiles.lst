@@ -1,0 +1,3 @@
+com\cmall\review\controller\TbItemReviewController.class
+com\cmall\review\service\TbItemReviewService.class
+com\cmall\review\service\impl\TbItemReviewServiceImpl.class

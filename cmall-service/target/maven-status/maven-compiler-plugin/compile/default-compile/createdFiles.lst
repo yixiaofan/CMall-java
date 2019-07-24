@@ -1,0 +1,9 @@
+com\cmall\dubbo\service\TbOrderDubboService.class
+com\cmall\dubbo\service\TbItemCatDubboService.class
+com\cmall\dubbo\service\TbItemParamDubboService.class
+com\cmall\dubbo\service\TbItemParamItemDubboService.class
+com\cmall\dubbo\service\TbItemDubboService.class
+com\cmall\dubbo\service\TbItemDescDubboService.class
+com\cmall\dubbo\service\TbUserDubboService.class
+com\cmall\dubbo\service\TbContentDubboService.class
+com\cmall\dubbo\service\TbContentCategoryDubboService.class

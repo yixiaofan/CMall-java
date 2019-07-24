@@ -1,0 +1,6 @@
+com\cmall\websocket\WebSocketConfig.class
+com\cmall\websocket\Constants.class
+com\cmall\websocket\HandshakeInterceptor.class
+com\cmall\websocket\LoginController.class
+com\cmall\websocket\TextMessageHandler.class
+com\cmall\websocket\MessageController.class
